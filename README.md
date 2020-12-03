@@ -13,8 +13,8 @@ PP slides include external links to allow live interactive maps and graphs
 
 ## Screenshots
 
-![Flask home page](public.flourish.studio/visualisation/3244335/)
-![Flask recommender page](public.flourish.studio/visualisation/3383680/)
+![Map Screenshot](https://github.com/RamonMartin1/Evolution-of-Terrorist-Attacks/blob/master/Screen%20Shot%202020-12-03%20at%2012.04.56.png)
+![Bar Screenshot](https://github.com/RamonMartin1/Evolution-of-Terrorist-Attacks/blob/master/Screen%20Shot%202020-12-03%20at%2012.06.00.png)
 
 ## Features
 
