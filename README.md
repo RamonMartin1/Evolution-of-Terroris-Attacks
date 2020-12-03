@@ -17,7 +17,7 @@ PP slides include external links to allow live interactive maps and graphs
 
 ## Features
 
-* Get anime recommendations for a MyAnimeList user ID **(only works on anime and user IDs scraped from MyAnimeList.net)** 
+* Presentation slides include live interactive graphs which allow sorting by time and event.
 
 ## Technologies
 
