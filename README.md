@@ -10,10 +10,12 @@ PP slides include external links to allow live interactive maps and graphs
 * [Technologies](#technologies)
 
 
-## Screenshots
+## Charts
+## Check out my Website to Find Out More About My Work or Get in Touch
+[<img src="site.gif">](https://rlew631.github.io/portfolio/)
 
-![Map Screenshot](https://github.com/RamonMartin1/Evolution-of-Terrorist-Attacks/blob/master/Screen%20Shot%202020-12-03%20at%2012.04.56.png)
-![Bar Screenshot](https://github.com/RamonMartin1/Evolution-of-Terrorist-Attacks/blob/master/Screen%20Shot%202020-12-03%20at%2012.06.00.png)
+![Map](https://github.com/RamonMartin1/Global_IED_Attacks/blob/master/map%20ping.gif)
+![Bar](https://github.com/RamonMartin1/Global_IED_Attacks/blob/master/Bar%20run%20chart.gif)
 
 ## Features
 
