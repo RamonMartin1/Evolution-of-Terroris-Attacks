@@ -11,8 +11,6 @@ PP slides include external links to allow live interactive maps and graphs
 
 
 ## Charts
-## Check out my Website to Find Out More About My Work or Get in Touch
-[<img src="site.gif">](https://rlew631.github.io/portfolio/)
 
 ![Bar](https://github.com/RamonMartin1/Global_IED_Attacks/blob/master/Bar%20run%20chart.gif)
 ![Map](https://github.com/RamonMartin1/Global_IED_Attacks/blob/master/map%20ping.gif)
